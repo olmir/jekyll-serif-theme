@@ -10,11 +10,13 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+- **Identification of processes subject to:**
+  - automation,
+  - reorganization,
+  - reduction in human involvement through digitalization.
+- **Application of AI models, Low-code/No-code solutions, RPA (Robotic Process Automation), and more.**
+
 
 ## Relevance
 
