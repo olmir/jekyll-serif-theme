@@ -5,9 +5,9 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+|   Problem   |   Solution   |
+| ----------- | ---------    |
+| Rising IT budgets, declining efficiency, redundant systems, unused licenses, oversized IT teams.    | Comprehensive audit of IT architecture and business processes, actionable strategies for cost reduction and efficiency improvement. |
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
