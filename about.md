@@ -43,7 +43,7 @@ crimen habet Priamum nec.
    - **Assessment of TCO (Total Cost of Ownership) / ROI (Return on Investment) when replacing IT solutions.**
    - **Prototyping of Target State Architecture.**
 
-## Case Study Example
+# Case Study Example
 Company X spends €1.5 million annually on Microsoft and SAP licenses. An analysis revealed that 30% of the functionality was unused. Our team proposed:
    - **Replacing part of the licensed solutions with open-source alternatives (e.g., Odoo, OnlyOffice),**
    - **Automating 2 key business processes through RPA scenarios,**
