@@ -9,7 +9,7 @@ bodyClass: page-about
 | ----------- | ---------    |
 | Rising IT budgets, declining efficiency, redundant systems, unused licenses, oversized IT teams.    | Comprehensive audit of IT architecture and business processes, actionable strategies for cost reduction and efficiency improvement. |
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/audit-of-it-architectiure-solutions.png)
 
 
 # Key Areas of Activity
