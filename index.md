@@ -1,13 +1,17 @@
 ---
-title: Jekyll Serif Theme
+title: RationArch
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: RationArchi is a strategic design firm that builds intelligent, resilient enterprise architectures grounded in clarity and rational thinking.
 intro_image: "images/illustrations/enterpise-architecture-rationalization.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# RationArch.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+**Ration**al **Arch**itecture.
+
+In a world where business models evolve faster than strategies are built, RationArch becomes a point of reference for those seeking clarity in enterprise architecture.
+
+We don’t just design systems — we build intelligent frameworks grounded in rationality, resilience, and strategic thinking.
