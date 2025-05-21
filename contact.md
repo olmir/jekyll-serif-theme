@@ -3,7 +3,6 @@ title: Contact
 layout: contact
 description: Contact
 ---
-
 **Have a challenge or idea you'd like us to explore?**
 Send us your case — a business scenario, technical problem, or concept — and we’ll analyze it and respond with a tailored insight or proposal.
 
