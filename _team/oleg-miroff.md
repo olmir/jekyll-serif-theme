@@ -1,7 +1,7 @@
 ---
 title: "Oleg Miroff"
 date: 2025-05-19T13:44:30+10:00
-image: "images/team/oleg-miroff-34657-unsplash.jpg"
+image: "images/team/oleg-miroff-pic.jpg"
 jobtitle: "CEO/Enterprise Architect"
 linkedinurl: "https://www.linkedin.com/in/oleg-miroff/"
 promoted: true
