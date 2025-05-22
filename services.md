@@ -9,7 +9,4 @@ intro_image_hide_on_mobile: true
 
 # RationArch
 
-Сompany specializing in the rationalization of enterprise architecture, with the aim of:
-    - Increasing the efficiency of business processes,
-    - Reducing costs related to IT products and personnel,
-    - Ensuring the sustainability and scalability of IT solutions over a 5-year horizon.
+Сompany specializing in the rationalization of enterprise architecture, with the aim of increasing the efficiency of business processes, reducing costs related to IT products and personnel and ensuring the sustainability and scalability of IT solutions over a 5-year horizon.
